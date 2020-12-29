@@ -2,6 +2,14 @@
 name = "quickstart-lib-rust"
 version = "0.1.0"
 authors = ["Hoàng Ng. <hoang.nguyen1247@gmail.com>"]
+license = "MIT OR Apache-2.0"
+description = "Just for testing"
+repository = "https://github.com/hoangnguyen1247/quickstart-lib-rust"
+documentation = "https://docs.rs/quickstart-lib-rust/"
+keywords = ["quickstart-lib-rust"]
+categories = ["accessibility"]
+readme = "README.md"
+include = ["build.rs", "src/**/*.rs", "README.md", "LICENSE-APACHE", "LICENSE-MIT"]
 edition = "2018"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
